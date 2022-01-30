@@ -4,4 +4,6 @@ body {
 }
 #header-nav {
     background-color: aqua;
+    border-radius: 0%;
+    border:0;
 }
