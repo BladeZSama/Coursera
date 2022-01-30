@@ -1,9 +1,50 @@
 body {
     font-size: 16px;
-
 }
+/* ******HEADER****** */
+
 #header-nav {
     background-color: aqua;
     border-radius: 0%;
     border:0;
 }
+#heading {
+    margin-top: -7px;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+#nav-list {
+    margin-top: 15px;
+    color: yellowgreen;
+    text-align: center;
+}
+#nav-list li {
+    font-size: 1.3em;
+}
+#noob a:hover {
+    background-color: tomato;
+}
+#noob1 a:hover {
+    background-color: tomato;
+}
+#noob2 a:hover {
+    background-color: tomato;
+}
+/* ******HEADER ENDS****** */
+/* *****JUMBOTRON***** */
+#ourmenu {
+    font-weight:bold;
+}
+#main-content{
+    background-color: rgb(236, 233, 233);
+    margin: 7%;
+    margin-top: 5%;
+}
+h2 {
+    font-weight: bold;
+    font-size: 22px;
+    text-shadow: black;
+    text-align: center;
+    margin-top: 10px;
+}
+/* *****JUMBOTRON END HERE***** */
